@@ -18,10 +18,10 @@
 
 <h2>Installation</h2>
 <p>You can install the required packages using pip:</p>
-<code>pip install opencv-python-headless mediapipe</code>
+<pre>pip install opencv-python-headless mediapipe</pre>
 
 <p>Clone the Repository:</p>
-<code>git clone https://github.com/tejasram2003/Pose_Estimation.git</code>
+<pre>git clone https://github.com/tejasram2003/Pose_Estimation.git</pre>
 
 <h2>Usage</h2>
 <p>To run the script, use the following command:</p>
@@ -39,7 +39,7 @@
 
 <img src="https://ik.imagekit.io/tejasram/sitting.png?updatedAt=1694442950156" width="350" alt="sample output">
 
-<p><strong>standing:</strong></p>
+<p><strong>Standing:</strong></p>
 <pre>python main.py --image_path images/standing.jpg --threshold 0.1</pre>
 
 <img src="https://ik.imagekit.io/tejasram/standing.png?updatedAt=1694442950062" width="350" alt="sample output">
