@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Pose Estimation Classifier</title>
-</head>
+
 <body>
 
 <h1>Pose Estimation Classifier</h1>
